@@ -1,6 +1,5 @@
 E:\GeekBrains\GZipTest\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
 E:\GeekBrains\GZipTest\GZipTest\GZipTest\bin\Debug\GZipTest.exe
 E:\GeekBrains\GZipTest\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
-E:\GeekBrains\GZipTest\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
 E:\GeekBrains\GZipTest\GZipTest\GZipTest\obj\Debug\GZipTest.exe
 E:\GeekBrains\GZipTest\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
